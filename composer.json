@@ -14,7 +14,8 @@
         "guzzlehttp/guzzle": "^7.0.1",
         "kalnoy/nestedset": "^5.0",
         "laravel/framework": "^8.12",
-        "laravel/tinker": "^2.5"
+        "laravel/tinker": "^2.5",
+        "unisharp/laravel-filemanager": "^2.2"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.5",
@@ -42,7 +43,10 @@
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/"
-        }
+        },
+        "files": [
+            "app/helpers.php"
+        ]
     },
     "autoload-dev": {
         "psr-4": {
