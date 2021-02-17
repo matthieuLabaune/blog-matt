@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4f1b2d33150c91b062233df63eb24d15",
+    "content-hash": "57cf34f9d2c98d273e57219ae9193e1a",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -109,6 +109,34 @@
                 }
             ],
             "time": "2021-01-20T22:51:39+00:00"
+        },
+        {
+            "name": "creativetimofficial/argon-design-system",
+            "version": "v1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/creativetimofficial/argon-design-system.git",
+                "reference": "04ffdfb9b5a615e4368f27302fd7e54bbcb84fa3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/creativetimofficial/argon-design-system/zipball/04ffdfb9b5a615e4368f27302fd7e54bbcb84fa3",
+                "reference": "04ffdfb9b5a615e4368f27302fd7e54bbcb84fa3",
+                "shasum": ""
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Creative Tim",
+                    "email": "support@creative-tim.com"
+                }
+            ],
+            "description": "A beautiful Design System for Bootstrap 4. It's Free and Open Source.",
+            "time": "2018-08-21T11:15:13+00:00"
         },
         {
             "name": "dnoegel/php-xdg-base-dir",
